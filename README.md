@@ -1,4 +1,4 @@
-# CHAT APP
+# SOCKET.IO CHAT APP
 [Work in progress...]
 
 <p align="center"><img  src="readme/image2.png"></p>
