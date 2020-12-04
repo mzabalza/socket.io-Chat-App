@@ -1,6 +1,6 @@
 # CHAT APP
 
-<p align="center"><img  src="readme/image1.png"></p>
+<p align="center"><img  src="readme/image1"></p>
 
 Chat app created with node.js
 
